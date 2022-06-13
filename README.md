@@ -1,7 +1,5 @@
 # blog-api
 
-# Play Now
-
 Link to Hosted Site
 -
 https://wendyvosu.github.io/number-guessing-game/
