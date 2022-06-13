@@ -1,12 +1,12 @@
 # blog-api
 
-Link to Hosted Site
+Environment Variables
 -
-https://wendyvosu.github.io/number-guessing-game/
+asdf
 
-Installation Instructions
+Installing and Running Locally
 -
--There is no installation necessary to play the game. The game can be accessed through the "Link to Hosted Site".
+asdf
 
 **How to Play**
 -
