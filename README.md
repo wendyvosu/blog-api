@@ -8,7 +8,7 @@ Environment Variables
 Installing and Running Locally
 -
 ### Clone the respository
-- In the terminal, use the following command: 
+In the terminal, use the following command: 
 
 <code>
 git clone https://github.com/wendyvosu/blog-api.git
