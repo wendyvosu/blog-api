@@ -29,7 +29,20 @@ npm i morgan<br>
 
 Endpoints
 -
-asdf
+### /Auth
+#### User login:
+- router.post
+
+### /Users
+#### Registers a new user:
+- router.post
+
+### /Blogs
+- a
+- a
+- a
+- a
+- a
 
 Parameters
 -
