@@ -8,6 +8,9 @@ Environment Variables
 Installing and Running Locally
 -
 - In the terminal, use the following command: 
+
+git clone https://github.com/wendyvosu/blog-api.git
+
 git clone https://github.com/wendyvosu/blog-api.git
 
 Endpoints
