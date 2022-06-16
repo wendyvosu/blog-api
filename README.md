@@ -30,19 +30,17 @@ npm i morgan<br>
 Endpoints
 -
 ### /Auth
-#### User login:
-- router.post
+- router.post("/"): User login.
 
 ### /Users
-#### Registers a new user:
-- router.post
+- router.post("/"): Register a new user.
 
 ### /Blogs
-- a
-- a
-- a
-- a
-- a
+- router.get("/"): Get blogs. 
+- router.post("/"): Create blogs. 
+- router.get("/:id"): Get blog by id. 
+- router.put("/:id"): Update blog by id. 
+- router.delete("/:id"): Delete a blog. 
 
 Parameters
 -
