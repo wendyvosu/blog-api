@@ -2,7 +2,7 @@
 
 Environment Variables
 -
-asdf
+- MONGODB_URI
 
 Installing and Running Locally
 -
