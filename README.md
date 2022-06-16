@@ -18,15 +18,15 @@ git clone https://github.com/wendyvosu/blog-api.git
 Cd into the project directory and use the following commands in the terminal: 
 
 ```
-npm init -y<br>
-npm i bcrypt<br>
-npm i dotenv<br>
-npm i express<br>
-npm i helmet<br>
-npm i jsonwebtoken<br>
-npm i mongodb<br>
-npm i mongoose<br>
-npm i morgan<br>
+npm init -y
+npm i bcrypt
+npm i dotenv
+npm i express
+npm i helmet
+npm i jsonwebtoken
+npm i mongodb
+npm i mongoose
+npm i morgan
 ```
 Endpoints and Parameters
 -
