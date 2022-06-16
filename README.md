@@ -3,6 +3,7 @@
 Environment Variables
 -
 - MONGODB_URI
+- SECRET_KEY
 
 Installing and Running Locally
 -
