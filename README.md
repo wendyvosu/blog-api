@@ -17,17 +17,15 @@ git clone https://github.com/wendyvosu/blog-api.git
 ### Install dependencies
 Cd into the project directory and use the following commands in the terminal: 
 
-<code>
-npm init -y
-npm i bcrypt
-npm i dotenv
-npm i express
-npm i helmet
-npm i jsonwebtoken
-npm i mongodb
-npm i mongoose
-npm i morgan
-</code>
+- npm init -y
+- npm i bcrypt
+- npm i dotenv
+- npm i express
+- npm i helmet
+- npm i jsonwebtoken
+- npm i mongodb
+- npm i mongoose
+- npm i morgan
 
 Endpoints
 -
