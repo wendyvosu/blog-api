@@ -7,7 +7,8 @@ Environment Variables
 
 Installing and Running Locally
 -
-asdf
+- In the terminal, use the following command: 
+git clone https://github.com/wendyvosu/blog-api.git
 
 Endpoints
 -
