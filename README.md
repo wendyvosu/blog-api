@@ -27,7 +27,7 @@ npm i mongodb<br>
 npm i mongoose<br>
 npm i morgan<br>
 
-Endpoints
+Endpoints and Parameters
 -
 ### /Auth
 - router.post("/"): User login.
@@ -41,10 +41,6 @@ Endpoints
 - router.get("/:id"): Get blog by id. 
 - router.put("/:id"): Update blog by id. 
 - router.delete("/:id"): Delete a blog. 
-
-Parameters
--
-asdf
 
 Schemas
 -
