@@ -10,13 +10,14 @@ Installing and Running Locally
 ### Clone the respository
 In the terminal, use the following command: 
 
-<code>
+```
 git clone https://github.com/wendyvosu/blog-api.git
-</code>
+```
 
 ### Install dependencies
 Cd into the project directory and use the following commands in the terminal: 
 
+```
 npm init -y<br>
 npm i bcrypt<br>
 npm i dotenv<br>
@@ -26,7 +27,7 @@ npm i jsonwebtoken<br>
 npm i mongodb<br>
 npm i mongoose<br>
 npm i morgan<br>
-
+```
 Endpoints and Parameters
 -
 ### /Auth
