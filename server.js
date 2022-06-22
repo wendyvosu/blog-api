@@ -7,6 +7,7 @@ const mongoConfig = require("./config/mongoConfig")
 const blogsRouter = require("./routes/blogsRouter")
 const usersRouter = require("./routes/usersRouter")
 const authRouter = require("./routes/authRouter")
+const { supportsColor } = require("chalk")
 
 const app = express()
 const PORT = process.env.PORT || 8080
@@ -17,6 +18,7 @@ app.use(helmet())
 
 app.use("/blogs", blogsRouter)
 app.use("/auth", authRouter)
+app.use("/users", usersRouter)
 
 app.get("/", (req, res) => {
     res.status(200).json("Wecome to my API!")
